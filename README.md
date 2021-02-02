@@ -1,0 +1,1 @@
+# Why-Prettier-does-not-format-code-in-VSCODE-
